@@ -66,3 +66,11 @@ https://github.com/nikzad-avasam/youtube-dl
 
 در صورت مفید بودن این ابزار از ما حمایت کنید تا بتوانیم ابزارهای مشابه در شرایط خاص را بسازیم.
 
+
+---
+
+## فایل های دانلود شده در گیتهاب شما :
+
+1. [1082506](https://github.com/messi7047aa-art/downloader/tree/main/downloads/1082506)
+
+---
